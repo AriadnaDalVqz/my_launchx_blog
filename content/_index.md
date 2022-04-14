@@ -7,4 +7,12 @@ Hola ✌️  soy la explorer **Ariadna** y este es mi blog personal donde compar
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectarivas del curso son:
+> Conocer las herramientas que se están ocupando.
+>
+> Analizar los distintos escenarios, para poder solucionarlos mediante la POO.
+>
+>  Conocer el Modelo Vista Controlador
+>  
+> API’s, protocolo HTTP y webservices
 🚀
