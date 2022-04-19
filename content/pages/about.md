@@ -13,7 +13,6 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 * Con especialidad en Aplicaciones Móviles e Inteligencia de negocios
 * Interés en:
 * Diseño de UX/UI
-* Administración de Base de Datos
-* Administración de Redes de datos
-* Programación Web
-
+* Data Science
+* Programación en general
+* Inteligencia Artificial
