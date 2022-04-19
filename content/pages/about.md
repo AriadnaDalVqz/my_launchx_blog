@@ -1,21 +1,19 @@
 ---
-title: 'About me'
+title: 'ACERCA DE MI'
 menu:
   main:
-    name: "AboutMe"
+    name: "Acerca de mi"
 ---
 
-## Who am I
+## ¿Quién soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+* Egresada de la carrera de Ingeniería en sistemas computacionales por el TECNM.
+* Con especialidad en Aplicaciones Móviles e Inteligencia de negocios
+* Interés en:
+* Diseño de UX/UI
+* Administración de Base de Datos
+* Administración de Redes de datos
+* Programación Web
 
