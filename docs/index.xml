@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Ariadna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://ariadnadalvqz.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ariadnadalvqz.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://ariadnadalvqz.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ariadnadalvqz.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Aprendizaje generado durante la travesía en Launch X:
+ Utilización de GitHub, como una manera súper práctica para colaborar en proyectos open sourse Utilización de cuadernos de Jupyter para ejecutar Python,con elementos decódigo Markdown interactivos y ejecutables Entrada y salida a la consola, entre ellos lo que son: Variables, tiposde datos e incluso su conversión de tipos Lógica booleana  </description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrollador de software</title>
       <link>https://ariadnadalvqz.github.io/my_launchx_blog/posts/intro/</link>
